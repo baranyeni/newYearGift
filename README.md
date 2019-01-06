@@ -16,7 +16,7 @@ D.I.Y noel gift to my girlfriend.
     
 ## TRICKS
   
-  # Power Stuff
+  ### Power Stuff
       You can use cheap chineese powerbank instead of Adafruit's POWERBOOST thing.
 
   ### Communication
