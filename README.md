@@ -15,6 +15,9 @@ D.I.Y noel gift to my girlfriend.
     Note: If you need these are Digital I/O's then I can suggest you to use multiplexer.
     
 ## TRICKS
+  
+  # Power Stuff
+      You can use cheap chineese powerbank instead of Adafruit's POWERBOOST thing.
 
-    You can use cheap chineese powerbank instead of Adafruit's POWERBOOST thing.
-    Multiplexer is more useful and educational for you, using 12 Digital pin for one component does not make sense.
+  # Communication
+      Multiplexer is more useful and educational for you, using 12 Digital pin for one component does not make sense.
