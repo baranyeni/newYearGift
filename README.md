@@ -21,3 +21,8 @@ D.I.Y noel gift to my girlfriend.
 
   ### Communication
       Multiplexer is more useful and educational for you, using 12 Digital pin for one component does not make sense.
+
+  ### Creating Letterrs and Shapes
+      I used the website http://dotmatrixtool.com/ fill the blanks and click generate button. 
+      Status of the boxes in wbsite can be different to light a led, depends on your dot matrix's type. (anode or kathode)
+          some of them lights on "1" bit, some of lights on "0".
