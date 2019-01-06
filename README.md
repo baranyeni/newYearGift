@@ -19,5 +19,5 @@ D.I.Y noel gift to my girlfriend.
   # Power Stuff
       You can use cheap chineese powerbank instead of Adafruit's POWERBOOST thing.
 
-  # Communication
+  ### Communication
       Multiplexer is more useful and educational for you, using 12 Digital pin for one component does not make sense.
