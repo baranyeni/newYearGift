@@ -1,5 +1,5 @@
 # newYearGift
-D.I.Y noel gift to my girlfriend. 
+D.I.Y noel gift to my girlfriend. ***And yes, we broke up***
 
 ## HARDWARE NEEDS
     ARDUINO BOARD (In my case, it's UNO R3)  
